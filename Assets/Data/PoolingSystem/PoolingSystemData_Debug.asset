@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 346b1427168d9a648917881373203005, type: 3}
+  m_Name: PoolingSystemData_Debug
+  m_EditorClassIdentifier: 
+  PoolManagerBindings:
+  - SceneName: Gameplay
+    poolManagersList:
+    - {fileID: -2938336586434087318, guid: 1cc05c3d788cf43459117a8156a23a83, type: 3}
+    - {fileID: -2938336586434087318, guid: 2e67fc2030476a94aa2d630369538f77, type: 3}
+    - {fileID: -2938336586434087318, guid: 1ff133df283c31e408ecbe493155aebc, type: 3}
+    - {fileID: 8734722442593814612, guid: 9baef9a24bce43645bc9ce2a5d0238a2, type: 3}
+    - {fileID: 6671082403365059263, guid: 2ab747d8e6d2af64d90b196fe77e3368, type: 3}
+    - {fileID: 6625392877833519038, guid: 0ce0a8f08b79e9e4ca03911801cd9e25, type: 3}
+    - {fileID: -6907549469157033664, guid: 4d6cd336a60946c469b36607a19500c1, type: 3}
+    - {fileID: 3651971402757470118, guid: 17e524407047eed45b9b026049b08f79, type: 3}
+    - {fileID: 7001177274126465193, guid: 58227bdf7fb62764981d4bd94d0b6526, type: 3}
+    - {fileID: -134905833294121437, guid: 28122de524c4197418a3c5268d4491aa, type: 3}
+    - {fileID: 1349507133717502484, guid: 2d87d38947eccb24e84aeaf0a32cbaf9, type: 3}
+    - {fileID: -3927190443727458047, guid: 5161303102dd455418ff2d491e86c6e4, type: 3}
+    - {fileID: 2546564572118011275, guid: 52f03feac1891fd42985008b030e976c, type: 3}
+    - {fileID: 2504536778993872168, guid: 9e71598386b40e541a378c7332db3083, type: 3}
